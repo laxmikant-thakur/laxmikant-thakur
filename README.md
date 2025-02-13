@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Laxmikant Thakur
 
-<!--
-**laxmikant-thakur/laxmikant-thakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A BTech CSE Student | Aspiring Coder | Exploring the World of Programming
 
-Here are some ideas to get you started:
+- 🎓 I’m currently studying at **Institute of Engineering and Management**, pursuing **BTech in Computer Science and Engineering**.
+- 🌱 I’m currently learning **C and C++**.
+- 🤝 I’m looking to collaborate on **beginner-friendly projects** to enhance my coding skills.
+- 💡 I’m exploring various domains of **software development** and problem-solving.
+- 📫 How to reach me: [laxmikantthakur00143@gmail.com](mailto:laxmikantthakur00143@gmail.com)
+- 🔗 My GitHub Profile: [github.com/laxmikant-thakur](https://github.com/laxmikant-thakur)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### Let's Connect!
+Feel free to reach out if you have any suggestions, ideas, or collaboration opportunities.
